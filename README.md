@@ -2,6 +2,4 @@
 - 👀 I’m interested in web development,Artificial Intelligence and Cloud Computing 
 - 🌱 I’m currently learning Python,Html and exploring frameworks
 - 💞️ I’m looking to collaborate on Cloud Native applications and Full Stack Web Development projects 
-- 📫 How to reach me email me at annewarui2022@gmail.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: when I'm not coding i enjoy exploring the outdoors,reading novels and watching a good movie.
